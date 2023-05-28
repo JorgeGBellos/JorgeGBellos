@@ -45,7 +45,7 @@ Full of desire to improve my life and the life of people around me.
 }
 ```
 ---
-<h3>Things I code with</h3>
+<h3>Things I work with</h3>
 <p>
   <img alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
