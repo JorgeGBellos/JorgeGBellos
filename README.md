@@ -60,5 +60,7 @@ Full of desire to improve my life and the life of people around me.
   <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="hyper" src="https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=plastic" alt="Laravel Badge">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat-square" alt="Laravel Badge">
+<img src="https://img.shields.io/badge/Filament-FDAE4B?logo=filament&logoColor=fff&style=flat-square" alt="Filament Badge">
+  
 </p>
